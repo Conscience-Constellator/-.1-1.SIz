@@ -1,0 +1,2 @@
+Transitions involving boolean, marked in red.
+Transitions invovlving float, marked in green.
